@@ -1,0 +1,6 @@
+name: PostPlugin
+version: '${project.version}'
+main: com.foxdev.postplugin.PostPlugin
+
+commands:
+  krijgpakket:
